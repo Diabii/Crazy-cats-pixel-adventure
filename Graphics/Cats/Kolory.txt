@@ -1,0 +1,21 @@
+Kolory
+
+Zołza
+OCZY
+Ciemny: 54eb2c
+Jasny: 9ffb76
+
+FUTRO:
+Ciemny: 01162f
+Jasny: 1f2f4a
+
+Poki
+OCZY
+Ciemny: c4a429
+Jasny: ebc83d
+
+FUTRO:
+Ciemny: 735e10
+Jasny: b09012
+
+FRAME 24x29
